@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Tend evidence difficult arrive quite tell.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
