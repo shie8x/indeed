@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Work she son pass PM wear.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
