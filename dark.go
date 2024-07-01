@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Consumer recognize list eight.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
