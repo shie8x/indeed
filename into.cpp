@@ -31,3 +31,10 @@ int main() {
 	std::cout << "Hello, World!" << std::endl;
 	return 0;
 }
+
+# He end cover American first office.
+#include <iostream>
+int main() {
+	std::cout << "Hello, World!" << std::endl;
+	return 0;
+}
