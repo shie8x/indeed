@@ -52,3 +52,10 @@ int main() {
 	std::cout << "Hello, World!" << std::endl;
 	return 0;
 }
+
+# Candidate couple after beyond knowledge hospital.
+#include <iostream>
+int main() {
+	std::cout << "Hello, World!" << std::endl;
+	return 0;
+}
