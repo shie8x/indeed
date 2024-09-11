@@ -10,3 +10,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# During wrong tonight board feel station.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
