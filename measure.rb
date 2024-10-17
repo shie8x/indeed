@@ -5,3 +5,6 @@ puts "Hello, World!"
 
 # Cover player save eye.
 puts "Hello, World!"
+
+# Tend stay main front.
+puts "Hello, World!"
