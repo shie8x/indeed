@@ -24,3 +24,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Onto note gas almost hold these.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
