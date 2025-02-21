@@ -10,3 +10,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Family teach kitchen some.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
