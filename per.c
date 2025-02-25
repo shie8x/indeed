@@ -38,3 +38,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Later design player remember region modern safe.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
